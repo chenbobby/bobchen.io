@@ -1,0 +1,4 @@
+baseURL = "https://www.bobchen.io/"
+title = "Bob Chen"
+description = "Bob Chen's personal website and blog"
+disableKinds = ["taxonomy", "taxonomyTerm"]

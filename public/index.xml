@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bob Chen</title>
+    <link>https://www.bobchen.io/</link>
+    <description>Recent content on Bob Chen</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.bobchen.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.bobchen.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bobchen.io/resume/</guid>
+      <description>Back to Home
+Bob Chen&amp;rsquo;s Resumé Email: hello@bobchen.io
+Twitter: @bobchenio
+GitHub: @chenbobby
+ Work Experience   Airbnb
+Software Engineering Intern, Compliance and Financial Crimes
+May 2021 - Present
+ Details Used Kotlin, TypeScript, ReactJS, and Apache Thrift.    Elementl
+Software Engineering Fellow, Dagster
+September 2020 - March 2021
+ Details Used Python, Docker, Kubernetes, Helm, Amazon Web Service, and Google Cloud Platform.    Intel
+Technical Marketing Intern, Kubernetes Device Plugins</description>
+    </item>
+    
+  </channel>
+</rss>
